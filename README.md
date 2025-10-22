@@ -1,21 +1,29 @@
 ## Olá, pessoal eu sou o Breno Araujo
 
-🎯 Desenvolvedor em formação | Focado em Full Stack | Apaixonado por tecnologia e aprendizado contínuo
+🎯 **Desenvolvedor em formação | Focado em Full Stack | Apaixonado por tecnologia e aprendizado contínuo**
 
 tenho 23 anos e estou iniciando minha jornada como desenvolvedor.
-Sou apaixonado por tecnologia e estou sempre buscando aprender novas linguagens, frameworks e boas práticas.
+Sou apaixonado por tecnologia e estou sempre buscando aprender novas linguagens, frameworks, boas práticas, entender como as coisas funcionam, criar soluções práticas e aprender algo novo todos os dias.
 Atualmente sou formando em **Analiese e Desenvolvimento de Sistemas** pelas *Cruzeiro Do Sul* e estou estudando **Programação Full Stack** no *Instituto Programadores do Amanhã*.
+
+---
+
+## 🔭 O que estou fazendo agora
+- 📚 Aprofundando conhecimentos em **HTML/CSS e JavaScript** e **lógica de programação**
+- 💡 Desenvolvendo **projetos práticos** para reforçar o aprendizado
+- 🎨 Aprendendo sobre **responsividade, UI/UX, layout com grid e flexbox e boas práticas de front-end**
+- 🚀 Em busca de oportunidades para atuar como **Desenvolvedor Júnior**
+
 ---
 
 ## Sobre mim
+Sou curioso, criativo e gosto de desafios que me façam sair da zona de conforto.  
+Meu foco está em construir experiências digitais acessíveis, funcionais e agradáveis. 
 
-💻 Explorando o universo do JavaScript e do desenvolvimento web
-
-🌱 Estudando HTML | CSS | JavaScript | Node.js
-
-🧠 Interessado em projetos colaborativos e desafios que me façam crescer
-
-🎯 Objetivo: me tornar um desenvolvedor Full Stack com foco em boas práticas e experiência do usuário
+- 💻 Explorando o universo do **desenvolvimento web** 
+- 🌱 Estudando **HTML | CSS | JavaScript | Node.js**
+- 🧠 Interessado em projetos colaborativos sempre buscando **melhorar código, aprender padrões e desafios que me façam crescer**  
+- 🎯 Objetivo é me tornar um desenvolvedor **Full Stack** com foco em **boas práticas e experiência do usuário**
 
 ---
 
@@ -48,26 +56,6 @@ Atualmente sou formando em **Analiese e Desenvolvimento de Sistemas** pelas *Cru
 [![Contribuição de Breno](https://github-readme-activity-graph.vercel.app/graph?username=Breno4raujo&theme=tokyo-night&hide_border=true)](https://github.com/Breno4raujo)
 
 </div>
-
----
-
-## 🔭 O que estou fazendo agora
-
-Focando em fortalecer meus conhecimentos em HTML, CSS e JavaScript.
-
-Trabalhando em projetos práticos para aplicar o aprendizado.
-
-Explorando conceitos de design responsivo, layout com grid e flexbox.
-
----
-
-## 🌱 O que pretendo aprender
-
-Aprimorar habilidades em JavaScript (ES6+), manipulação de DOM e APIs.
-
-Estudar frameworks front-end (como React ou Vue) ou possivelmente back-end (Node.js).
-
-Evoluir nos conceitos de versionamento com Git, fluxo de trabalho em equipe e boas práticas de código.
 
 ---
 
