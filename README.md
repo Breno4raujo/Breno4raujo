@@ -72,9 +72,15 @@ Lógica de Programação
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Breno4raujo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Breno4raujo&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Breno4raujo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Breno4raujo&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Breno4raujo&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Breno4raujo&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Breno4raujo&theme=tokyonight&utcOffset=-3"/>
 
 </div>
 
@@ -138,16 +144,16 @@ Aplicação completa Full Stack.
 
 ---
 
-# 🌐 Contato
+## 🌐 Contato
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/brenoaraujodev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:devbrenoaraujo@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
+<a href="mailto:devbrenoaraujo@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
