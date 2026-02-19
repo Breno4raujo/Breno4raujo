@@ -68,19 +68,13 @@ Lógica de Programação
 
 ---
 
-# 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=Breno4raujo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" 
-/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Breno4raujo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno4raujo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Breno4raujo&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -90,9 +84,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno4raujo&
 
 <div align="center">
 
-<img 
-src="https://streak-stats.demolab.com?user=Breno4raujo&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-/>
+<img src="https://streak-stats.demolab.com?user=Breno4raujo&theme=tokyonight&hide_border=true"/>
 
 </div>
 
