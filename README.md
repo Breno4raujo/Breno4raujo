@@ -1,6 +1,6 @@
 ## Olá, pessoal eu sou o Breno Araujo
 
-🎯 **Desenvolvedor em formação | Focado em Full Stack | Apaixonado por tecnologia e aprendizado contínuo**
+🎯 ** Full Stack Developer em formação  | Apaixonado por tecnologia e aprendizado contínuo**
 
 tenho 23 anos e estou iniciando minha jornada como desenvolvedor.
 Sou apaixonado por tecnologia e estou sempre buscando aprender novas linguagens, frameworks, boas práticas, entender como as coisas funcionam, criar soluções práticas e aprender algo novo todos os dias.
@@ -38,13 +38,14 @@ Meu foco está em construir experiências digitais acessíveis, funcionais e agr
 ---
 
 ## 📊 Estatísticas do GitHub
+
 <div align="center">
+  
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Breno4raujo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Breno4raujo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno4raujo&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Breno4raujo&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Breno4raujo&theme=tokyonight&hide_border=true)
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Breno4raujo&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -61,11 +62,11 @@ Meu foco está em construir experiências digitais acessíveis, funcionais e agr
 
 ## 📂 Projetos principais
 
-🔹 [**Meu Primeiro Git**](https://github.com/Breno4raujo/Meu-Primeiro-Git) — Meus primeiros passos com versionamento e GitHub.  
-🔹 [**Conversor de Medidas**](https://github.com/Breno4raujo/Conversor-de-medidas) — Aplicativo simples em JS para conversão de unidades.  
-🔹 [**Grid e Flexbox**](https://github.com/Breno4raujo/Grid-e-Flexbox) — Layout responsivo com CSS moderno.  
-🔹 [**Projeto Quer Me Contratar**](https://github.com/Breno4raujo/Projeto-Quer-Me-Contratar-) — Página de portfólio e contato.  
-🔹 [**Gerenciador de Estudantes**](https://github.com/Breno4raujo/Projeto-Gerenciador-de-Estudantes) — Sistema CRUD em JavaScript.  
+🔹 [**Meu portfólio**](https://github.com/Breno4raujo/Portifolio-BrenoAraujo) — Portfólio interativo.  
+🔹 [**Conversor de Medidas**](https://github.com/Breno4raujo/Conversor-de-medidas) — Aplicativo simples em JS para conversão de unidades.    
+🔹 [**Projeto Quer Me Contratar**](https://github.com/Breno4raujo/Projeto-Quer-Me-Contratar-) — treino de HTML e CSS.  
+🔹 [**Gerenciador de Estudantes**](https://github.com/Breno4raujo/Projeto-Gerenciador-de-Estudantes) — Sistema CRUD em JavaScript.
+🔹 [**Task Manager**](https://github.com/Breno4raujo/Task-manager) — Aplicação full stack para gerenciamento de tarefas (To-Do List).
 
 ---
 
