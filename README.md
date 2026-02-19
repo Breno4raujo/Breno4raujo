@@ -142,16 +142,15 @@ Aplicação completa Full Stack.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/brenoaraujodev/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/brenoaraujodev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
-<a href="mailto:brenoaraujomelo2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:brenoaraujomelo2002@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
 </a>
 
 </div>
-
 ---
 
 # 👁️ Visitas no perfil
