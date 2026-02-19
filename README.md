@@ -146,7 +146,7 @@ Aplicação completa Full Stack.
   <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
-<a href="mailto:brenoaraujomelo2002@gmail.com" target="_blank">
+<a href="mailto:devbrenoaraujo@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
 </a>
 
