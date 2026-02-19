@@ -1,95 +1,181 @@
-## Olá, pessoal eu sou o Breno Araujo
-
-🎯 ** Full Stack Developer em formação  | Apaixonado por tecnologia e aprendizado contínuo**
-
-tenho 23 anos e estou iniciando minha jornada como desenvolvedor.
-Sou apaixonado por tecnologia e estou sempre buscando aprender novas linguagens, frameworks, boas práticas, entender como as coisas funcionam, criar soluções práticas e aprender algo novo todos os dias.
-Atualmente sou formando em **Analiese e Desenvolvimento de Sistemas** pelas *Cruzeiro Do Sul* e estou estudando **Programação Full Stack** no *Instituto Programadores do Amanhã*.
-
----
-
-## 🔭 O que estou fazendo agora
-- 📚 Aprofundando conhecimentos em **HTML/CSS e JavaScript** e **lógica de programação**
-- 💡 Desenvolvendo **projetos práticos** para reforçar o aprendizado
-- 🎨 Aprendendo sobre **responsividade, UI/UX, layout com grid e flexbox e boas práticas de front-end**
-- 🚀 Em busca de oportunidades para atuar como **Desenvolvedor Júnior**
-
----
-
-## Sobre mim
-Sou curioso, criativo e gosto de desafios que me façam sair da zona de conforto.  
-Meu foco está em construir experiências digitais acessíveis, funcionais e agradáveis. 
-
-- 💻 Explorando o universo do **desenvolvimento web** 
-- 🌱 Estudando **HTML | CSS | JavaScript | Node.js**
-- 🧠 Interessado em projetos colaborativos sempre buscando **melhorar código, aprender padrões e desafios que me façam crescer**  
-- 🎯 Objetivo é me tornar um desenvolvedor **Full Stack** com foco em **boas práticas e experiência do usuário**
-
----
-
-## 🧩 Tecnologias e Ferramentas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:7F00FF,100:E100FF&height=200&section=header&text=Olá,%20pessoal%20eu%20sou%20Breno%20Araujo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <div align="center">
-  
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Breno4raujo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno4raujo&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Breno4raujo&theme=tokyonight&hide_border=true"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=28&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+em+forma%C3%A7%C3%A3o;Desenvolvedor+Front-end+e+Back-end;Criando+projetos+e+solu%C3%A7%C3%B5es+modernas;Buscando+minha+primeira+oportunidade+como+Dev+J%C3%BAnior)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🕒 Timeline de Contribuições
+# 👨‍💻 Sobre mim
+
+🎯 **Full Stack Developer em formação | Apaixonado por tecnologia e aprendizado contínuo**
+
+Tenho 23 anos e estou construindo minha jornada como desenvolvedor.  
+Sou apaixonado por tecnologia e sempre buscando aprender novas linguagens, frameworks e boas práticas.
+
+🎓 Formando em **Análise e Desenvolvimento de Sistemas** — Cruzeiro do Sul  
+🚀 Estudante de **Programação Full Stack** — Instituto Programadores do Amanhã  
+
+Meu objetivo é construir aplicações modernas, funcionais e com excelente experiência para o usuário.
+
+---
+
+# 🚀 O que estou fazendo atualmente
+
+- 📚 Estudando **HTML, CSS, JavaScript e Node.js**
+- 💻 Desenvolvendo **projetos Full Stack**
+- 🎨 Aprendendo **UI/UX e responsividade**
+- ⚙️ Criando aplicações com **boas práticas**
+- 🎯 Buscando oportunidade como **Desenvolvedor Júnior**
+
+---
+
+# 🧠 Skills com progresso
+
 <div align="center">
 
-[![Contribuição de Breno](https://github-readme-activity-graph.vercel.app/graph?username=Breno4raujo&theme=tokyo-night&hide_border=true)](https://github.com/Breno4raujo)
+Frontend  
+██████████░░░░░░ 60%
+
+JavaScript  
+██████████░░░░░░ 60%
+
+HTML/CSS  
+████████████░░░░ 70%
+
+Node.js  
+████████░░░░░░░░ 40%
+
+Git e GitHub  
+████████████░░░░ 70%
+
+Lógica de Programação  
+████████████░░░░ 70%
 
 </div>
 
 ---
 
-## 📂 Projetos principais
-
-🔹 [**Meu portfólio**](https://github.com/Breno4raujo/Portifolio-BrenoAraujo) — Portfólio interativo.  
-🔹 [**Conversor de Medidas**](https://github.com/Breno4raujo/Conversor-de-medidas) — Aplicativo simples em JS para conversão de unidades.    
-🔹 [**Projeto Quer Me Contratar**](https://github.com/Breno4raujo/Projeto-Quer-Me-Contratar-) — treino de HTML e CSS.  
-🔹 [**Gerenciador de Estudantes**](https://github.com/Breno4raujo/Projeto-Gerenciador-de-Estudantes) — Sistema CRUD em JavaScript.
-🔹 [**Task Manager**](https://github.com/Breno4raujo/Task-manager) — Aplicação full stack para gerenciamento de tarefas (To-Do List).
-
----
-
-## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenoaraujodev/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenoaraujomelo2002@gmail.com)
-
-Sinta-se à vontade para me seguir, abrir issues ou me contatar por mensagem direta aqui no GitHub.
-
----
-
-## ❤️ Por que colaborar comigo?
-
-Se você está procurando alguém que está com sede de aprender, disposto a se envolver em projetos abertos, trocar conhecimento e crescer junto — acho que podemos colaborar bem!
-Se tiver um projeto frontend simples ou um pequeno desafio de JS pra propor, será um prazer contribuir.
-
----
+# 🛠️ Tecnologias
 
 <div align="center">
-  
-## 📈 **Obrigado por visitar meu perfil!**  
-Se curtiu algum projeto, não esqueça de deixar uma ⭐ e acompanhar minha jornada 🚀  
 
-![Profile views](https://komarev.com/ghpvc/?username=Breno4raujo&color=blueviolet&style=flat-square)
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode" />
 
 </div>
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api?username=Breno4raujo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" 
+/>
+
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno4raujo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+/>
+
+</div>
+
+---
+
+# 🔥 Streak Stats
+
+<div align="center">
+
+<img 
+src="https://streak-stats.demolab.com?user=Breno4raujo&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=Breno4raujo&theme=tokyo-night&hide_border=true&area=true" 
+/>
+
+</div>
+
+---
+
+# 🚀 Projetos principais
+
+### 🌐 Portfólio
+https://github.com/Breno4raujo/Portifolio-BrenoAraujo
+
+Portfólio profissional interativo.
+
+---
+
+### 🔄 Conversor de Medidas
+https://github.com/Breno4raujo/Conversor-de-medidas
+
+Aplicação em JavaScript.
+
+---
+
+### 👨‍🎓 Gerenciador de Estudantes
+https://github.com/Breno4raujo/Projeto-Gerenciador-de-Estudantes
+
+Sistema CRUD em JavaScript.
+
+---
+
+### ✅ Task Manager Full Stack
+https://github.com/Breno4raujo/Task-manager
+
+Aplicação completa Full Stack.
+
+---
+
+# 🌐 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/brenoaraujodev/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:brenoaraujomelo2002@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👁️ Visitas no perfil
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Breno4raujo&style=for-the-badge&color=7F00FF"/>
+
+</div>
+
+---
+
+# ⭐ Mensagem final
+
+<div align="center">
+
+"Transformando aprendizado em soluções reais através do código."
+
+Obrigado por visitar meu perfil 🚀
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:7F00FF,100:E100FF&height=120&section=footer"/>
