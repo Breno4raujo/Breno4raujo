@@ -110,37 +110,11 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Breno4raujo&
 
 # 🚀 Projetos principais
 
-### 🌐 Portfólio
-https://github.com/Breno4raujo/Portifolio-BrenoAraujo
-
-Portfólio profissional interativo.
----
-
-### 🕵️ Projeto-Quer-Me-Contratar
-https://github.com/Breno4raujo/Projeto-Quer-Me-Contratar-
-
-Pagina web interativa.
-
----
-
-### 🔄 Conversor de Medidas
-https://github.com/Breno4raujo/Conversor-de-medidas
-
-Aplicação em JavaScript.
-
----
-
-### 👨‍🎓 Gerenciador de Estudantes
-https://github.com/Breno4raujo/Projeto-Gerenciador-de-Estudantes
-
-Sistema CRUD em JavaScript.
-
----
-
-### ✅ Task Manager Full Stack
-https://github.com/Breno4raujo/Task-manager
-
-Aplicação completa Full Stack.
+<a href="https://github.com/Breno4raujo/Portifolio-BrenoAraujo"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Breno4raujo&repo=Portifolio-BrenoAraujo&theme=tokyonight" alt="Portifolio-BrenoAraujo"></a>
+<a href="https://github.com/Breno4raujo/Projeto-Quer-Me-Contratar-"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Breno4raujo&repo=Projeto-Quer-Me-Contratar-&theme=tokyonight" alt="Projeto-Quer-Me-Contratar-"></a>
+<a href="https://github.com/Breno4raujo/Conversor-de-medidas"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Breno4raujo&repo=Conversor-de-medidas&theme=tokyonight" alt="Conversor-de-medidas"></a>
+<a href="https://github.com/Breno4raujo/Projeto-Gerenciador-de-Estudantes"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Breno4raujo&repo=Projeto-Gerenciador-de-Estudantes&theme=tokyonight" alt="Projeto-Gerenciador-de-Estudantes"></a>
+<a href="https://github.com/Breno4raujo/Task-manager"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Breno4raujo&repo=Task-manager&theme=tokyonight" alt="Task-manager"></a>
 
 ---
 
